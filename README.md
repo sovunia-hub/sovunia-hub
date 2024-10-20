@@ -26,7 +26,7 @@
 
 I'm a junior data scientist from Russia
 
-- 📖 I'm studying at RTU MIREA, graduating in 2025.
+- 📖 I'm studying at RTU MIREA (applied computer science, data management), graduating in 2025.
 - 📊 Exploring Data Science and Machine Learning, with a focus on predictive analytics and data visualization.
 - 🌐 Passionate about applying statistical methods and algorithms to extract insights from data and drive decision-making.
 - ✒️ Currently working on projects involving data cleaning, feature engineering, and model evaluation to enhance my practical skills.
