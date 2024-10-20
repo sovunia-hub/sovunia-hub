@@ -93,5 +93,7 @@ I'm a junior data scientist from Russia
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/FjxNkOb5rzCc1rwRoe/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/M5d91iJLni78gIpP4D/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/FjxNkOb5rzCc1rwRoe/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/M5d91iJLni78gIpP4D/giphy.gif" width="100"/>
 </p>
