@@ -1,16 +1,97 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/Mi2knrVULb46CQaE2w/giphy.gif" align="left" width="120">
+  <img src="https://media.giphy.com/media/RYCfVQbbYeZxhlRA8u/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/Mi2knrVULb46CQaE2w/giphy.gif" align="right" width="120">
+</p>
 
-<!--
-**sovunia-hub/sovunia-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a align="center" href="https://www.kaggle.com/grandwizard">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoSize=auto&logoColor=white" alt="Kaggle Badge" width="120">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a align="center" href="https://sovunia.itch.io">
+    <img src="https://img.shields.io/badge/itch.io-red?style=flat&logo=itch.io&logoSize=auto&logoColor=white" alt="Itch.io Badge" width="120">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RF4zpt4EK7Sxm1M6mW/giphy.gif" width="200">
+</p>
+
+<h2> :technologist: &nbsp;About Me: </h2>
+
+I'm a junior data scientist from Russia
+
+- 📖 I'm studying at RTU MIREA, graduating in 2025.
+- 📊 Exploring Data Science and Machine Learning, with a focus on predictive analytics and data visualization.
+- 🌐 Passionate about applying statistical methods and algorithms to extract insights from data and drive decision-making.
+- ✒️ Currently working on projects involving data cleaning, feature engineering, and model evaluation to enhance my practical skills.
+- 🤝 Actively seeking internships and collaborative opportunities to gain hands-on experience in the field.
+- ⚡ In my free time I solve problems on Kaggle or LeetCode and read tech articles.
+- 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sshichinov)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Q0M5T4TpoDSY8YeGMz/giphy.gif" width="200">
+</p>
+
+<h2>
+   🛠 &nbsp;Languages and Tools :
+</h2>
+
+<h3> ML: </h3>
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="50" height="50"/>&nbsp;
+</p>
+
+<h3> Big Data: </h3>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Apache Spark" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="Mariadb" alt="Mariadb" width="50" height="50"/>&nbsp;
+</p>
+
+<h3> Other: </h3>
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+</p>
+
+---
+
+### 📈 &nbsp;My Stats :
+
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sovunia-hub&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovunia-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/FjxNkOb5rzCc1rwRoe/giphy.gif" width="300"/>
+</p>
