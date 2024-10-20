@@ -29,7 +29,7 @@ I'm a junior data scientist from Russia
 - 📖 I'm studying at RTU MIREA (applied computer science, data management), graduating in 2025.
 - 📊 Exploring Data Science and Machine Learning, with a focus on predictive analytics and data visualization.
 - 🌐 Passionate about applying statistical methods and algorithms to extract insights from data and drive decision-making.
-- ✒️ Currently working on projects involving data cleaning, feature engineering, and model evaluation to enhance my practical skills.
+- ✒️ Currently working on projects involving data cleaning, feature engineering and model evaluation to enhance my practical skills.
 - 🤝 Actively seeking internships and collaborative opportunities to gain hands-on experience in the field.
 - ⚡ In my free time I solve problems on Kaggle or LeetCode and read tech articles.
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sshichinov)
