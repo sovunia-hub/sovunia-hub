@@ -83,7 +83,7 @@ I'm a junior data scientist from Russia
 
 ---
 
-### 📈 &nbsp;My Stats :
+<h2> 📈 &nbsp;My Stats: </h2>
 
 <div align="center">
   
