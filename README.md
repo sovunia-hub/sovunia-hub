@@ -6,13 +6,13 @@
 
 <p align="center">
   <a align="center" href="https://www.kaggle.com/grandwizard">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoSize=auto&logoColor=white" alt="Kaggle Badge" width="120">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoSize=auto&logoColor=white" alt="Kaggle Badge" height="30">
   </a>
 </p>
 
 <p align="center">
   <a align="center" href="https://sovunia.itch.io">
-    <img src="https://img.shields.io/badge/itch.io-red?style=flat&logo=itch.io&logoSize=auto&logoColor=white" alt="Itch.io Badge" width="120">
+    <img src="https://img.shields.io/badge/itch.io-red?style=flat&logo=itch.io&logoSize=auto&logoColor=white" alt="Itch.io Badge" height="30">
   </a>
 </p>
 
