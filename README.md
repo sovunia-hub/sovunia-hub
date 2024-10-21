@@ -92,6 +92,8 @@ I'm a junior data scientist from Russia
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovunia-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/M5d91iJLni78gIpP4D/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/FjxNkOb5rzCc1rwRoe/giphy.gif" width="250"/>
