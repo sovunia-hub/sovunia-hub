@@ -41,7 +41,7 @@ I'm a junior data scientist from Russia
 </p>
 
 <h2>
-   🛠 &nbsp;Languages and Tools :
+   🛠 &nbsp;Languages and Tools:
 </h2>
 
 <h3> ML: </h3>
