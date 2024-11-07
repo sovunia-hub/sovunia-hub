@@ -91,7 +91,7 @@ I'm a data scientist from Russia
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sovunia-hub&theme=neon&background=0d1117&ring=DF73FF&fire=78DBE2&currStreakNum=78DBE2&currStreakLabel=78DBE2)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sovunia-hub&theme=neon&background=0d1117&ring=DF73FF&fire=78DBE2&currStreakNum=78DBE2&currStreakLabel=78DBE2&sideNums=78DBE2&sideLabels=78DBE2&dates=DF73FF)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovunia-hub&layout=donut&theme=neon&bg_color=0d1117&title_color=DF73FF&text_color=78DBE2)](https://github.com/anuraghazra/github-readme-stats)
   
