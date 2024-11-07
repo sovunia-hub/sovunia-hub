@@ -24,7 +24,7 @@
 
 <h2> :technologist: &nbsp;About Me: </h2>
 
-I'm a junior data scientist from Russia
+I'm a data scientist from Russia
 
 - 📖 I'm studying at RTU MIREA (applied computer science, data management), graduating in 2025.
 - 📊 Exploring Data Science and Machine Learning, with a focus on predictive analytics and data visualization.
@@ -83,13 +83,18 @@ I'm a junior data scientist from Russia
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/2MTPBW7cToctw9X0Ry/giphy.gif" width="200">
+</p>
+
 <h2> 📈 &nbsp;My Stats: </h2>
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sovunia-hub&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sovunia-hub&theme=neon)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovunia-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovunia-hub&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ---
