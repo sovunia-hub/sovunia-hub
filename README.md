@@ -84,20 +84,6 @@ I'm a data scientist from Russia
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2MTPBW7cToctw9X0Ry/giphy.gif" width="200">
-</p>
-
-<h2> 📈 &nbsp;My Stats: </h2>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovunia-hub&layout=donut&theme=neon&bg_color=0d1117&title_color=DF73FF&text_color=78DBE2)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
----
-
-<p align="center">
   <img src="https://media.giphy.com/media/M5d91iJLni78gIpP4D/giphy.gif" width="100" align="left">
   <img src="https://media.giphy.com/media/FjxNkOb5rzCc1rwRoe/giphy.gif" width="250">
   <img src="https://media.giphy.com/media/M5d91iJLni78gIpP4D/giphy.gif" width="100" align="right">
